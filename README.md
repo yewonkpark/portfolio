@@ -7,7 +7,7 @@
 #### Deep Learning
 
 * [Dissertation: Aritficial Neural Network for Drug Side-effects Prediction - Multi-label classification, imbalanced label, high-dimensional data](https://github.com/yewonkpark/portfolio/tree/master/Drug_SE_Prediction) <I>(Python, Keras, Tensorflow) </I>
-*  Human Activity Recognition Using Stacked Auto-Encoders and Multi-layered Perceptron<I> (Matlab)</i>
+*  [Human Activity Recognition Using Stacked Auto-Encoders and Multi-layered Perceptron](https://github.com/yewonkpark/portfolio/tree/master/Human_Activity_Recognition)<I> (Matlab)</i>
 
 #### Machine Learning
 * Human skin classification Using K-Nearest Neighbours and Random Forest <I> (Matlab)</i>
