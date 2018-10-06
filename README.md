@@ -10,14 +10,14 @@
 *  [Human Activity Recognition Using Stacked Auto-Encoders and Multi-layered Perceptron](https://github.com/yewonkpark/portfolio/tree/master/Human_Activity_Recognition)<I> (Matlab)</i>
 
 #### Machine Learning
-* Human skin classification Using K-Nearest Neighbours and Random Forest <I> (Matlab)</i>
+* [Human skin classification Using K-Nearest Neighbours and Random Forest ](https://github.com/yewonkpark/portfolio/tree/master/human_skin_classification)<I> (Matlab)</i>
 
 #### Big Data & Natural Language Processing (NLP)
 * [Sentiment Analysis Using Natural Language Processing and Logistic Regression](https://github.com/yewonkpark/portfolio/tree/master/NLP_Sentimental_Analysis/)<I> (Python, Spark)</i>
 
 #### Statistical / Explanatory Data Analysis (EDA)
 * Local coffee business boosting strategy on Yelp Dataset Using Multivariate Correspondence Analysis  <I>(Python)</i>
-* U.S. swing states election strategy Using Principal Component Analysis and K-means clustering<I> (R)</i>
+* [U.S. swing states election strategy Using Principal Component Analysis and K-means clustering](https://github.com/yewonkpark/portfolio/tree/master/U.S.election_analysis)<I> (R)</i>
 
 #### Creating and Querying Database Schema
 * Building and Querying an ORDBMS (Object-Relational Database Management System) schema <I>(Oracle SQL)</i>
