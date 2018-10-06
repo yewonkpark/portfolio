@@ -135,7 +135,6 @@ compare_table.columns = ["Number of Business","checkin_Average","checkin_Total",
 
 
 #%% PART 1 : starrating distribution (caution : NOT correlation coz these are agg not avg)
-#일단 홀드.
 
 #plot the distribution : starrating vs review_count
 
