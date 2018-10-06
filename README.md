@@ -12,7 +12,7 @@
 #### Machine Learning
 * Human skin classification Using K-Nearest Neighbours and Random Forest <I> (Matlab)</i>
 
-#### Big Data & Natural Language Processing (NLP)
+#### [Big Data & Natural Language Processing (NLP)](portfolio/NLP_Sentimental_Analysis/)
 * Sentiment Analysis Using Natural Language Processing and Logistic Regression <I> (Python, Spark)</i>
 
 #### Statistical / Explanatory Data Analysis (EDA)
