@@ -16,6 +16,11 @@ library(ggrepel)
 
 
 #load the data
+#the demographical data from U.S. census of 2016 (of 2015 if not available) https://www.census.gov/cps/data/cpstablecreator.html
+#the relevant election data were obtained from following sources
+#election result: http://edition.cnn.com/election/results
+#turn-out rate: https://www.statisticbrain.com/2016-presidential-election-results-by-state/
+#campaign travel log: http://storymaps.esri.com/stories/2016/campaign-travel-log/, http://traveltracker.nationaljournal.com
 rawdata <- read_excel("electionswing2.xlsx", sheet="states")
 rawdataagg <- read_excel("electionswing2.xlsx", sheet="swingyn")
 View(rawdata)
