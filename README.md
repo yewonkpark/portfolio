@@ -16,7 +16,7 @@
 * [Sentiment Analysis Using Natural Language Processing and Logistic Regression](https://github.com/yewonkpark/portfolio/tree/master/NLP_Sentimental_Analysis/)<I> (Python, Spark)</i>
 
 #### Statistical / Explanatory Data Analysis (EDA)
-* Local coffee business boosting strategy on Yelp Dataset Using Multivariate Correspondence Analysis  <I>(Python)</i>
+* [Local coffee business boosting strategy on Yelp Dataset Using Multivariate Correspondence Analysis](https://github.com/yewonkpark/portfolio/tree/master/Yelp_localbiz_strategy)  <I>(Python)</i>
 * [U.S. swing states election strategy Using Principal Component Analysis and K-means clustering](https://github.com/yewonkpark/portfolio/tree/master/U.S.election_analysis)<I> (R)</i>
 
 #### Creating and Querying Database Schema
