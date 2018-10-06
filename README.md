@@ -12,8 +12,8 @@
 #### Machine Learning
 * Human skin classification Using K-Nearest Neighbours and Random Forest <I> (Matlab)</i>
 
-#### [Big Data & Natural Language Processing (NLP)](https://github.com/yewonkpark/portfolio/tree/master/NLP_Sentimental_Analysis/)
-* Sentiment Analysis Using Natural Language Processing and Logistic Regression <I> (Python, Spark)</i>
+#### Big Data & Natural Language Processing (NLP)
+* [Sentiment Analysis Using Natural Language Processing and Logistic Regression](https://github.com/yewonkpark/portfolio/tree/master/NLP_Sentimental_Analysis/)<I> (Python, Spark)</i>
 
 #### Statistical / Explanatory Data Analysis (EDA)
 * Local coffee business boosting strategy on Yelp Dataset Using Multivariate Correspondence Analysis  <I>(Python)</i>
