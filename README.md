@@ -20,7 +20,7 @@
 * [U.S. swing states election strategy Using Principal Component Analysis and K-means clustering](https://github.com/yewonkpark/portfolio/tree/master/U.S.election_analysis)<I> (R)</i>
 
 #### Creating and Querying Database Schema
-* Building and Querying an ORDBMS (Object-Relational Database Management System) schema <I>(Oracle SQL)</i>
+* [Building and Querying an ORDBMS (Object-Relational Database Management System) schema ](https://github.com/yewonkpark/portfolio/tree/master/ORDBMS_creating_airlineDB<I>(Oracle SQL)</i>
 
 ####  Digital signal processing (Sound, Image)
 * Image Correlation (Template matching) and Time-Series prediction (Fourier Transform) <I> (Matlab)</i>
